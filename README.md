@@ -17,3 +17,5 @@ Para executar o projeto, basta executar a classe `Main`. Certifique-se de ter o 
 
 ```bash
 java br.univille.poo.logger.Main
+
+Este README mantém as informações essenciais sobre o projeto, como sua descrição, funcionalidades e instruções básicas para execução, mas de forma mais simplificada e amigável para quem não possui muito conhecimento técnico em Java.
